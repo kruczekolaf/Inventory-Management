@@ -1,10 +1,18 @@
 [
   {
     "id": "2329058506",
-    "eventType": "CLOCK",
+    "eventType": "TIME_DRIVEN",
     "handlerFunction": "monthly_inventory_summary",
     "source": "CLOCK",
     "isActive": true
+    "schedule": {
+      "type": "MONTHLY",
+      "dayOfMonth": 1,
+      "timeWindow": {
+        "startHour": 4,
+        "endHour": 5,
+      }
+    }
   },
   {
     "id": "2329058507",
