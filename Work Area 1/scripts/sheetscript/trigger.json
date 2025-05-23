@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2329058506",
+    "eventType": "CLOCK",
+    "handlerFunction": "monthly_inventory_summary",
+    "source": "CLOCK",
+    "isActive": true
+  },
+  {
+    "id": "2329058507",
+    "eventType": "ON_EDIT",
+    "handlerFunction": "add_order_date",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  },
+  {
+    "id": "2329058510",
+    "eventType": "ON_EDIT",
+    "handlerFunction": "order_arrived",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  }
+]
