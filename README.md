@@ -17,26 +17,26 @@ Die für das Inventar verantwortlichen Personen sehen somit, welche Gegenstände
 - 🔄 Aktualisierungen ohne manuelle Synchronisierung
 - 👨‍👩‍👧‍👦 Perfekt für kleine Teams oder Büros
 
-## 🧑‍💻 Funktionen der Tabellen
+# 🧑‍💻 Funktionen der Tabellen
 
-### 1. **Inventory Formulare**
+## 1. **Inventory Formulare**
 - **Beschreibung**: Die Formulare dienen den Mitarbeitenden, um die aktuelle Anzahl der im Inventar bestehenden Gegenstände zu zählen und einzutragen
 
-### 2. **Inventory Tabellen**
+## 2. **Inventory Tabellen**
 - **Beschreibung**: Diese Tabellen dienen zur Aufnahme und Verarbeitung der eingetragenen Inventur der Mitarbeitenden
 - **Funktionen**:
   - Eintragen und sortieren der gezählten und eingetragenen Gegenstände
   - Visualisierung von fehlenden Gegenständen mithilfe von bedingter Formatierung
   - Kennzeichnung für andere Mitarbeitende, ob und wann fehlende Gegenstände nachbestellt wurden
 
-### 3. **Overview Tabelle**
+## 3. **Overview Tabelle**
 - **Beschreibung**: Diese Tabelle zeigt auf einen Blick alle Gegenstände aus allen Arbeitsbereichen, die nachbestellt werden müssen
 - **Funktionen**:
   - Automatische Synchronisierung beim Öffnen der Tabelle
   - Möglichkeit Gegenstände der Inventur nicht anzeigen zu lassen, die in anderen Lagerstätten vorrätig sind und nicht direkt nachbestellt werden müssen
 
 
-### 4. **Monthly Inventory**
+## 4. **Monthly Inventory**
 - **Beschreibung**: Diese Tabelle speichert den Inventurverlauf jedes Monats
 - **Funktionen**:
   - Inventuren, die während eines Monats gemacht wurden, werden monatlich abgespeichert und einen Überblick über die einzelnen Gegenstände zu haben
