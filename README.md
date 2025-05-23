@@ -44,7 +44,7 @@ Die für das Inventar verantwortlichen Personen sehen somit, welche Gegenstände
 # ⚙️ Wie man das System verwendet
 
 1. **Kopiere alle Google Sheets und Googel Forms**  
-   - [Klicken hier, um zu den Datein zu kommen](https://drive.google.com/drive/folders/1OyHtgi2f7gH7NRjT6i2nvqzGMOVwZifn) 
+   - [Klicken hier, um zum Drive mit den Dateien zu kommen](https://drive.google.com/drive/folders/1OyHtgi2f7gH7NRjT6i2nvqzGMOVwZifn) 
 
 2. **Füge die Trigger der einzelnen Sheets und Forms hinzu**  
    - Zu finden als trigger.json in den dementsprechenden Ordnern z.B. [Work Area 1/scripts/formscript/trigger.json](https://github.com/kruczekolaf/Inventory-Management/blob/main/Work%20Area%201/scripts/formscript/trigger.json) 
