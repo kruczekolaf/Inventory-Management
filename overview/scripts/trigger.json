@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1677681515",
+    "eventType": "ON_EDIT",
+    "handlerFunction": "order_arrived",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  },
+  {
+    "id": "2328634872",
+    "eventType": "ON_EDIT",
+    "handlerFunction": "enter_order_date",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  },
+  {
+    "id": "2328634875",
+    "eventType": "ON_OPEN",
+    "handlerFunction": "overview_update",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  }
+]
