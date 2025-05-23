@@ -1,0 +1,31 @@
+[
+{
+    "id": "2328264366",
+    "eventType": "TIME_DRIVEN",
+    "handlerFunction": "monthly_inventory_summary",
+    "source": "CLOCK",
+    "isActive": true
+    "schedule": {
+      "type": "MONTHLY",
+      "dayOfMonth": 1,
+      "timeWindow": {
+        "startHour": 4,
+        "endHour": 5,
+      }
+    }
+  },
+  {
+    "id": "2328306303",
+    "eventType": "ON_EDIT",
+    "handlerFunction": "add_order_date",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  },
+  {
+    "id": "2328306335",
+    "eventType": "ON_EDIT",
+    "handlerFunction": "order_arrived",
+    "source": "SPREADSHEETS",
+    "isActive": true
+  }
+]
